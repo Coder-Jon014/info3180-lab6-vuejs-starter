@@ -18,6 +18,12 @@ import AppFooter from "@/components/AppFooter.vue";
 body {
   padding-top: 75px;
 }
+
+.news__list{
+  display: inline-block;
+}
+
+
 /* @import '@/assets/base.css';
 
 #app {
